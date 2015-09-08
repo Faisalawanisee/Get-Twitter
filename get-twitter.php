@@ -2,7 +2,7 @@
 /*
 Plugin Name: Get Twitter
 Description: Plugin to get your tweets in your Wordpress Website
-Plugin URI: http://#
+Plugin URI: https://github.com/Faisalawanisee/Get-Twitter
 Author: Faisal Awan
 Author URI: https://github.com/Faisalawanisee
 Version: 1.0
